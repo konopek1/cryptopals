@@ -1,0 +1,4 @@
+/home/michalkonopka/Pobrane/CLion-2019.2.4/clion-2019.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/michalkonopka/CLionProjects/crypto_pals_basic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/michalkonopka/CLionProjects/crypto_pals_basic/cmake-build-debug
